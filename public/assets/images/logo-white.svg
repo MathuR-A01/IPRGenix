@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 15h4v30h-4v-30z" fill="#ffffff"/>
+  <path d="M28 15h10c3 0 5 2 5 5v5c0 3-2 5-5 5h-6v15h-4v-30z" fill="#ffffff"/>
+  <path d="M33 20v5h2c1 0 1.5-0.5 1.5-1.5v-2c0-1-0.5-1.5-1.5-1.5h-2z" fill="#0056b3"/>
+  <path d="M48 15h4v10c0 3 1 5 4 5s4-2 4-5v-10h4v10c0 5-3 9-8 9s-8-4-8-9v-10z" fill="#ffffff"/>
+  <path d="M68 15h4v12l8-12h5l-9 13 10 17h-5l-7-13-2 3v10h-4v-30z" fill="#ffffff"/>
+  <path d="M90 15h14v4h-10v8h8v4h-8v10h10v4h-14v-30z" fill="#ffffff"/>
+  <path d="M110 15h4v30h-4v-30z" fill="#ffffff"/>
+  <path d="M120 15h4l10 20v-20h4v30h-4l-10-20v20h-4v-30z" fill="#ffffff"/>
+  <path d="M145 15h12c3 0 5 2 5 5v5c0 2.5-1.5 4.5-4 5l5 15h-5l-4-14h-5v14h-4v-30z" fill="#ffffff"/>
+  <path d="M150 20v11h5c1.5 0 2.5-1 2.5-2.5v-6c0-1.5-1-2.5-2.5-2.5h-5z" fill="#0056b3"/>
+  <path d="M180 44.5c-2 1-4.5 1.5-7 1.5-7 0-12-5-12-12s5-12 12-12c2.5 0 5 0.5 7 1.5v5c-2-1.5-4-2-6-2-4.5 0-8 3.5-8 7.5s3.5 7.5 8 7.5c2 0 4-0.5 6-2v5z" fill="#ff6b00"/>
+</svg>
